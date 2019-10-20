@@ -1,5 +1,5 @@
 G.AddData({
-name:'Laws Of Food (Free)',
+name:'Laws Of Food Free Version',
 author:'Adr',
 desc:'A mod that increases the amount of choices in rules of food.',
 engineVersion:1,
