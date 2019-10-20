@@ -28,12 +28,4 @@ Fruit
 Bread
 
 
-And in the mod versions, there are:
-
-
-Hot Peppers
-
-Hot Sauce
-
-
 PS: The singular meats/seafood each cost 0.5 influence, but it shows up as 0 ingame.
