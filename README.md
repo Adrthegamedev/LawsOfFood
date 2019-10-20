@@ -1,5 +1,5 @@
 # Laws Of Food
-A mod/modpack for orteil's game called "Neverending Legacy."
+A mod for orteil's game called "Neverending Legacy."
 
 # Info
 Laws of food increases the amount of choices you can choose from in the Rules Of Food trait, including:
