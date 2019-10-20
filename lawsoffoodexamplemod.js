@@ -12,7 +12,7 @@ func:function()
 	new G.Policy({
 		name:'eat hot peppers',
 		desc:'[hot pepper,Hot peppers] are now food items.',
-		icon:[6,12,'iconSheet',0,0,'spicySheet'],
+		icon:[6,12,'iconSheet'0,0,'spicySheet'],
 		cost:{'influence':1},
 		startMode:'on',
 		req:{'rules of food':true},
@@ -28,7 +28,7 @@ func:function()
 	new G.Policy({
 		name:'eat hot sauce',
 		desc:'[hot sauce] is now a food item.',
-		icon:[6,12,'iconSheet',1,0,'spicySheet'],
+		icon:[6,12,'iconSheet'1,0,'spicySheet'],
 		cost:{'influence':1},
 		startMode:'on',
 		req:{'rules of food':true},
