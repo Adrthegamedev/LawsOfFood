@@ -36,4 +36,4 @@ Hot Peppers
 Hot Sauce
 
 
-PS: The singular meats each cost 0.5 influence, but it shows up as 0 ingame.
+PS: The singular meats/seafood each cost 0.5 influence, but it shows up as 0 ingame.
