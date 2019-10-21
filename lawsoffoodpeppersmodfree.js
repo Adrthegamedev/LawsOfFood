@@ -3,7 +3,7 @@ name:'Laws Of Food - Peppers Mod',
 author:'Adr',
 desc:'A mod that increases the amount of choices in rules of food.',
 engineVersion:1,
-requires:['Default dataset*','Example Mod'],
+requires:['Default dataset*','Example mod'],
 sheets:{'spicySheet':'img/spicyModIconSheet.png','iconSheet':'img/iconSheet.png'},// custom stylesheet (note : broken in IE and Edge for the time being)
 func:function()
 {
